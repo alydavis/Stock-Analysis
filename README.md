@@ -9,15 +9,14 @@ Because of the clear formatting of the returns column, **green** for positive re
 ![Stock Performance 2017](Resources/Results_2017.png)
 ![Stock Performance 2018](Resources/Results_2018.png)
 
-The original VBA script, in [this file](green_stocks.xlsm) returned the analysis for .27 seconds for both 2017 and 2018 analyses. 
+The original VBA script, in [this file](green_stocks.xlsm) returned the analysis in .27 seconds for both 2017 and 2018 analyses. 
 ![Original 2017 Timestamp](Resources/Original_Script_2017.png)
 ![Original 2018 Timestamp](Resources/Original_Script_2018.png)
 
-The original script (link), saved in file: green_stocks_.xlsm
-Refactored script (link), saved in file: VBA_Challenge.xlsm
+The refactored script in [this file](VBA_Challenge.xlsm) returned the analysis in .082 seconds for the 2017 analysis and .086 seconds for the 2018 analysis, proving the refactored code was more efficient than the original source code.  
 
-Original script: 2017: 2018: (link)
-Refactored script: 2017: 2018: (link)
+![Refactored_2017](Resources/VBA_Challenge_2017.png)
+![Refactored_2018](Resources/VBA_Challenge_2018.png)
 
 
 
